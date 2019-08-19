@@ -103,7 +103,7 @@ let personsArray = MyAPI.getPeople().sorted(by: { $0.name < $1.name })
 And well, if we need a more complex conditions, we can use the default completion:
 
 {% highlight swift %}
-
+ 
 //personsArray will contain some Person objects
 var personsArray = MyAPI.getPeople()
 
