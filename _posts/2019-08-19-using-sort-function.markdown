@@ -94,7 +94,7 @@ You can sort an array of objects by comparing a property within, for instance:
 
 {% highlight swift %}
 
-//personsArray will contain some Person objects sorted by name ascendently
+//personsArray will contain some Person objects sorted by ascending name
 let personsArray = MyAPI.getPeople().sorted(by: { $0.name < $1.name })
 
 
