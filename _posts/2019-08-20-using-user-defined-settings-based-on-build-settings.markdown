@@ -57,7 +57,7 @@ let myInt = MyClass.getValueFromInfoPlist(withKey: "my_int_key", returning: Int.
 
 <h2>Yes, but show me how to have different values per build setting</h2>
 
-Okay. Now you know how to get values from your plist. Now, lets go to your _**workspace**_ and go to _**build settings**_, press on `+` button and click on `Add User-Defined Settings`.
+Okay. Now you know how to get values from your plist. Now, let's go to your _**workspace**_ and go to _**build settings**_, press on `+` button and click on `Add User-Defined Settings`.
 
 <img src="/post_assets/images/build_settings_user_defined.png" alt="" width="100%"/>
 
