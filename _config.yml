@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Mellado dev blog
-email: carlosmelladoa@gmail.com
+email: carlos@mellado.dev
 description: >- # this means to ignore newlines until "baseurl:"
   Made with ❤️ from an iOS developer and brought to you.
   Working as a developer and enjoying since 2008.
