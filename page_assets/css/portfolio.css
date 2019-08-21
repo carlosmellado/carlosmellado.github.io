@@ -1,0 +1,7 @@
+img.appstoreicon {
+	width: 100px;
+	float:left;
+	border-radius: 25px;
+	margin-right: 25px;
+	border: 1px solid #DDD;
+}
