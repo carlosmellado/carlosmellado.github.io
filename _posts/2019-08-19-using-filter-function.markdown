@@ -10,7 +10,7 @@ On this post we'll talk about `filter` function on Swift, and how it works.
 
 `filter` filters.
 
-<img src="/assets/images/captain_obvious.png" alt="" width="500"/>
+<img src="/post_assets/images/captain_obvious.png" alt="" width="500"/>
 
 <h2>😅Well, better explained</h2>
 Filter allow us to select a desired objects within an `array`. 

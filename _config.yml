@@ -27,7 +27,16 @@ url: "https://mellado.dev" # the base hostname & protocol for your site, e.g. ht
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: plainwhite
+ 
+plainwhite:
+  name: Carlos Mellado
+  tagline: iOS Lead Developer
+  date_format: "%b %-d, %Y"  
+
+  social_links:
+    linkedin: carlos-mellado-aguilera-83869653
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag

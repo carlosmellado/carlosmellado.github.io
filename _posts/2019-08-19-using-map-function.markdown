@@ -57,7 +57,7 @@ return personsArray.map({$0.name})
 And this will return an array of name properties, declared as `String`.
 Remember, you still can use compactMap to get non-nil values.
 
-![image](/assets/images/map_image_1.jpg)
+![image](/post_assets/images/map_image_1.jpg)
 
 <h1>Wait</h1>
 Still needing a more powerful method for mapping?

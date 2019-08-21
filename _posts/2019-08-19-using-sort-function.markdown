@@ -9,7 +9,7 @@ Forget about [Captain Obvious]({% post_url 2019-08-19-using-filter-function %}) 
 
 `Returns the elements of the sequence, sorted.`
 
-<img src="/assets/images/what.jpg" alt="" width="400"/>
+<img src="/post_assets/images/what.jpg" alt="" width="400"/>
 
 It seems Captain Obvious strikes again.
 
