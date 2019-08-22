@@ -196,7 +196,7 @@ FILE "/Users/carlosmellado/test_project/PersonParser.swift" AT LINE 7 parsing ke
 {
     name = Carlos;
     surname = Mellado;
-    age = not interesting;
+    age = "not interesting";
 }
 --------------
 {% endhighlight %}
