@@ -78,11 +78,12 @@ let person = try? PersonParser.transformDictionaryToPerson(myDictionary)
 
 {% endhighlight %}
 
+
 <h2>The problem</h2>
 
 This is what you see in the console when it fails:
 
-<img src="/post_assets/images/diagnose_post/nothing_meme.jpg" alt="" width="250"/>
+<img src="/post_assets/images/diagnose_post/nothing_meme.jpg" alt="" width="350"/>
 
 If you have just one person to parse, it's easy to find where's the problem.
 
