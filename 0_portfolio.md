@@ -4,7 +4,8 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-<h1>Personal projects</h1>
+<h2>iOS</h2>
+<h3>Personal projects</h3>
 
 <article>
 	<img class="appstoreicon" src="/page_assets/images/portfolio/boxie_icon.png"/>
@@ -17,7 +18,7 @@ permalink: /portfolio/
 </article>
 <br/>
 
-<h1>Others</h1>
+<h3>Others</h3>
 
 <article>
 	<img class="appstoreicon" src="/page_assets/images/portfolio/zeelo_consumers_icon.jpg"/>
@@ -31,7 +32,7 @@ permalink: /portfolio/
 <br/>
 <article>
 	<img class="appstoreicon" src="/page_assets/images/portfolio/ofertia_icon.jpg"/>
-    <span class="post-meta">2016</span> <br /><b>Ofertia</b><br />Ofertia iOS app. An app for searching deals and see digitalised brochures, also, you can save your loyalty cards and save your shopping lists.
+    <span class="post-meta">2016</span> <br /><b>Ofertia</b><br />An app for searching deals and see digitalised brochures, also, you can save your loyalty cards and save your shopping lists.
 </article>
 <br/>
 <article>
@@ -46,7 +47,7 @@ permalink: /portfolio/
 
 <br/>
 
-<h1>Contributed in</h1>
+<h3>Contributed in</h3>
 
 <article>
 	<img class="appstoreicon" src="/page_assets/images/portfolio/my_axa_icon.jpg"/>
@@ -60,5 +61,24 @@ permalink: /portfolio/
 <br/>
 <article>
 	<img class="appstoreicon" src="/page_assets/images/portfolio/bellahora_icon.png"/>
-    <span class="post-meta">2013</span> <br /><b>Bellahora</b><br />An app for make reservation for beauty centers.
+    <span class="post-meta">2013</span> <br /><b>Bellahora</b><br />An app for making reservations on beauty centers.
 </article>
+<br/><br/>
+<h2>Alexa Skills</h2>
+<h3>Personal projects</h3>
+
+<article>
+	<img class="appstoreicon" src="/page_assets/images/portfolio/boxie_icon.png"/>
+    <span class="post-meta">2019</span> <br /><b>Boxie</b><br />Not released yet. More info comming soon.
+</article>
+<br/>
+
+<br/>
+<h2>Backend</h2>
+<h3>Personal projects</h3>
+
+<article>
+	<img class="appstoreicon" src="/page_assets/images/portfolio/boxie_icon.png"/>
+    <span class="post-meta">2019</span> <br /><b>Boxie</b><br />Using Java and Spring Boot.<br/>Not released yet. More info comming soon.
+</article>
+<br/>
