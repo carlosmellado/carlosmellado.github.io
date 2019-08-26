@@ -36,6 +36,9 @@ minima:
 
 disqus:
     shortname: mellado-dev
+
+google_analytics: UA-146421948-1
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
