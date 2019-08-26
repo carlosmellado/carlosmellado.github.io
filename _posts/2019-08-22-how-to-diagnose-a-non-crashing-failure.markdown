@@ -203,7 +203,10 @@ FILE "/Users/carlosmellado/test_project/PersonParser.swift" AT LINE 7 parsing ke
 
 <h1>Boom!</h1>
 
-And that's all, you can also avoid console diagnosing by entering `diagnosing: false` on `me_object(forKey:returningType:)` like this:
+Now you can find why your parser is failing just by looking at the console, pretty useful.
+
+
+You can also avoid console diagnosing by entering `diagnosing: false` on `me_object(forKey:returningType:)` like this:
 
 {% highlight swift %}
 

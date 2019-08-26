@@ -3,6 +3,7 @@ layout: post
 title:  "Hello lil dev!"
 date:   2019-08-19 11:27:09 +0200
 categories: welcome
+comments: false
 ---
 My name is Carlos Mellado, 
 I’ve been working as iOS developer since 2011 and I’m ready to start a blog about development. I’ll write mostly about tips for Swift/Objective-C, but maybe sometimes for Arduino (C), Java or PHP, who knows…?

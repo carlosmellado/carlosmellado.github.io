@@ -34,6 +34,8 @@ minima:
     linkedin: carlos-mellado-aguilera-83869653
     twitter: melli_pro
 
+disqus:
+    shortname: mellado-dev
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
