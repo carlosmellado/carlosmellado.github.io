@@ -22,22 +22,22 @@ permalink: /portfolio/
 
 <article>
 	<img class="appstoreicon" src="/page_assets/images/portfolio/zeelo_consumers_icon.jpg"/>
-    <span class="post-meta">2018</span> <br /><b>Zeelo</b><br />Consumers app for Zeelo. A shared transportation coach service.
+    <span class="post-meta">2018</span> <br /><b><a href="https://apps.apple.com/es/app/zeelo/id1448467180" style="color:#000000;">Zeelo</a></b><br />Consumers app for Zeelo. A shared transportation coach service.
 </article>
 <br/>
 <article>
 	<img class="appstoreicon" src="/page_assets/images/portfolio/zeelo_drivers_icon.jpg"/>
-    <span class="post-meta">2018</span> <br /><b>Zeelo Drivers</b><br />Drivers app for Zeelo drivers. It allows the drivers to see their jobs and share their location to be sent to the customers.
+    <span class="post-meta">2018</span> <br /><b><a href="https://apps.apple.com/us/app/zeelo-driver/id1263064852" style="color:#000000;">Zeelo Drivers</a></b><br />Drivers app for Zeelo drivers. It allows the drivers to see their jobs and share their location to be sent to the customers.
 </article>
 <br/>
 <article>
 	<img class="appstoreicon" src="/page_assets/images/portfolio/ofertia_icon.jpg"/>
-    <span class="post-meta">2016</span> <br /><b>Ofertia</b><br />An app for searching deals and see digitalised brochures, also, you can save your loyalty cards and save your shopping lists.
+    <span class="post-meta">2016</span> <br /><b><a href="https://apps.apple.com/es/app/ofertia-catálogos-y-ofertas/id506700724?l=en" style="color:#000000;">Ofertia</a></b><br />An app for searching deals and see digitalised brochures, also, you can save your loyalty cards and save your shopping lists.
 </article>
 <br/>
 <article>
 	<img class="appstoreicon" src="/page_assets/images/portfolio/tripuniq_icon.jpg"/>
-    <span class="post-meta">2017</span> <br /><b>TripUniq</b><br />An app for buying customised travel plans based on your preferences. You can also download all the data to let the app work without network connection, including maps.
+    <span class="post-meta">2017</span> <br /><b><a href="https://apps.apple.com/us/app/tripuniq/id1058060954" style="color:#000000;">TripUniq</a></b><br />An app for buying customised travel plans based on your preferences. You can also download all the data to let the app work without network connection, including maps.
 </article>
 <br/>
 <article>
